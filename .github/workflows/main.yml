@@ -1,0 +1,2 @@
+mvn package
+docker build --tag mariuskraft/pet-clinic-example:latest -f Dockerfile .
